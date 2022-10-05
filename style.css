@@ -116,4 +116,7 @@ p{
     visibility:visible;
     z-index:10;
 }
+.hide-rating{
+    visibility: hidden;
+}
 
